@@ -1,0 +1,2 @@
+BC92.c:13:6:OS_BC92_Send_AT_Cmd	32	static
+BC92.c:37:6:OS_BC92_Hardware_Reset	8	static
